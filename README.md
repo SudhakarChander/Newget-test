@@ -1,0 +1,2 @@
+# Newget-test
+Testing cloning
